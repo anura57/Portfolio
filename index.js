@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https"
+
+</head>
+<body>
+
+    <header class="header">
+        <a href="#home" class="logo">Anura
+            <span>Shakya</span></a>
+
+            <i class='bx bx-menu-alt-left' id="menu-icons"></i>
+
+        <nav class="navbar">
+            <a href="#home" class="active">Home</a>
+            <a href="#education" >Education</a>
+            <a href="socials.html" >socials</a>
+            <a href="#contact" >Contact Me</a>
+        </nav>
+    </header>
+    <section class="home" id="home">
+        <div class="home-content">
+            <h1>Hi, My name is <span>Anura</span></h1>
+            <h3 class="animation">I am a <span></span></h3>
+            <p>jdhahdadjhadhakd</p>
+
+            <div class="social-icons">
+                <a href="#"><i class='bx bxl-linkedin' ></i> </a>
+                <a href="#"><i class='bx bxl-github' ></i></a>
+                <a href="#"><i class='bx bxl-facebook-circle' ></i></a>
+            
+                
+            </div>
+            <div class="btn-group">
+                <a href="" class="btn">Hire Me</a>
+                <a href="#contact" class="btn">Contact Me</a>
+            </div>
+            
+        </div>
+        <div class="home-img">
+            <img src="Anura.jpg">
+
+        </div>
+    </section>
+    
+</body>
+</html>
+
+<img src="https://static.vecteezy.com/system/resources/thumbnails/014/391/893/small_2x/home-icon-isolated-on-transparent-background-black-symbol-for-your-design-free-png.png">
